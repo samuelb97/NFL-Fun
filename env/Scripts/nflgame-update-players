@@ -1,0 +1,4 @@
+#!c:\users\samue\onedrive\desktop\development\nfl\env\scripts\python.exe
+
+import nflgame.update_players
+nflgame.update_players.run()
